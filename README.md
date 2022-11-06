@@ -1,3 +1,4 @@
+<h5>This is a fork of kartik-v package. This one includes a couple of improvements and php8.1 comaptibility</h5>
 <h1 align="center">
     <a href="http://demos.krajee.com" title="Krajee Demos" target="_blank">
         <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/krajee-logo-b.png" alt="Krajee Logo"/>
